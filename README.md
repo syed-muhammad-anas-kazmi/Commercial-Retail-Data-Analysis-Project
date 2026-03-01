@@ -6,7 +6,7 @@ This project takes a raw, real-world dataset of over 400,000 online retail trans
 ## 🛠️ Tools & Libraries Used
 * **Python & Pandas** (Data Cleaning, Feature Engineering, Aggregation)
 * **Matplotlib & Seaborn** (Data Visualization)
-* **Kaggle** Dataset link: https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+* **Kaggle** (Dataset link: https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
 
 ## 🧹 The Data Pipeline
 1. **Data Cleaning:** Removed missing Customer IDs, handled negative quantities (returns/refunds), and filtered out massive B2B wholesale outliers to protect the mathematical averages.
